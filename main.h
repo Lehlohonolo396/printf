@@ -114,4 +114,8 @@ int is_digit(char);
 long int convert_size_number(long int num, int size);
 long int convert_size_unsgnd(unsigned long int num, int size);
 
-#endif /* MAIN_H */                                                                                             1,1           Topi
+<<<<<<< HEAD
+#endif /* MAIN_H */                                                                                             
+=======
+#endif /* MAIN_H */
+>>>>>>> 943f2cf5236e6ac08008092c212c82b9a19d0262
